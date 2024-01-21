@@ -49,3 +49,24 @@ ul{
     justify-content: space-between;
     gap:10px;
 }
+
+
+/* hero section */
+
+
+.hero{
+    width:100%;
+    height:150vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    text-align: center;
+    margin: 45px 0;
+}
+
+.hero__title{
+    font-size: 4.2rem;
+    font-weight: 600;
+    color:#172026;
+}
