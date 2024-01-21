@@ -69,4 +69,13 @@ ul{
     font-size: 4.2rem;
     font-weight: 600;
     color:#172026;
+    line-height: 72px; /* 112.5% */
+}
+
+.hero__desc{
+    font-size: 1.2rem;
+    font-weight: 400;
+    color:#36485C;
+    margin: 24px 0;
+    line-height: 28px; 
 }
