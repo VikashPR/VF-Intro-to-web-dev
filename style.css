@@ -79,3 +79,25 @@ ul{
     margin: 24px 0;
     line-height: 28px; 
 }
+
+.hero__btns{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hero__btn{
+    padding: 16px 32px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color:#4328EB;
+    gap:10px;
+    font-size:1.2rem;
+}
+
+.hero__btn--dark{
+    background-color:#4328EB;
+    color:#fff;
+}
