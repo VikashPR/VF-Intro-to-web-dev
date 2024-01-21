@@ -63,6 +63,10 @@ ul{
     flex-direction: column;
     text-align: center;
     margin: 45px 0;
+    background: url(./img/gradient-bg.svg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
 }
 
 .hero__title{
@@ -101,3 +105,4 @@ ul{
     background-color:#4328EB;
     color:#fff;
 }
+
