@@ -56,7 +56,7 @@ ul{
 
 .hero{
     width:100%;
-    height:150vh;
+    height:160vh;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -106,3 +106,17 @@ ul{
     color:#fff;
 }
 
+.hero__companies{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width:80%;
+    margin:0 80px 80px;
+}
+
+.hero__companies__info__text{
+    font-size: 1.2rem;
+    font-weight: 400;
+    color:#fff;
+    line-height: 24px; 
+}
