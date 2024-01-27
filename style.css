@@ -11,14 +11,12 @@ body{
 }
 
 /* reset */
-
 ul{
     list-style: none;
 }
 
 
 /* header */
-
 .header{
     width:100%;
     height: 80px;
